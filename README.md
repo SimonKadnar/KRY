@@ -1,6 +1,6 @@
 KRY - KRYPTOGRAFIE (A.R. 2023/2024)
 
-utor: Šimon Kadnár  
+Autor: Šimon Kadnár  
 Login: xkadna00  
 Dátum: 29.4.2024  
 Názov: MAC za použitia SHA-256 + Length extension attack
